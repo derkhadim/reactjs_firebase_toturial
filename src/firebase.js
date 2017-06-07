@@ -8,5 +8,6 @@ const config = {
     storageBucket: "react-firebase-food.appspot.com",
     messagingSenderId: "708557153885"
 };
+
 firebase.initializeApp(config);
 export default firebase;
